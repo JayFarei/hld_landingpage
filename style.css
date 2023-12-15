@@ -87,17 +87,12 @@ body {
   }
 }
 
-/* Responsive Design Adjustments */
+/* Responsive Design Adjustments for blinking text */
 @media (max-width: 768px) {
   .text-animation {
     font-size: 1.5em; /* Slightly smaller font for smaller screens */
   }
 }
-
-/* Adjustments for smaller screens */
-
-/* Adjustments for smaller screens */
-
 /* Footer Styling */
 .footer {
   flex-direction: row;
